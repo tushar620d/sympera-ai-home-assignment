@@ -1,0 +1,33 @@
+{
+  "customer": "Elite Builds LLC",
+  "demographic": {
+    "industry": "Residential Construction",
+    "location": "Utah",
+    "business_size": "Small firm"
+  },
+  "behavioral": {
+    "revenue_inflow": 112000,
+    "material_spend": 30800,
+    "growth_investment": 10650,
+    "net_cash_movement": 44720,
+    "revenue_transactions": 4,
+    "savings_transfer": 5000
+  },
+  "psychographic": {
+    "growth_orientation": "High",
+    "technology_adoption": "Observed via AutoCAD spend",
+    "customer_acquisition_focus": "Observed via Local SEO",
+    "liquidity_discipline": "Suggested by savings transfer"
+  },
+  "positive_signals": [
+    "Resilience Alpha",
+    "Growth Reinvestment",
+    "Revenue Breadth",
+    "Liquidity Allocation"
+  ],
+  "market_context": {
+    "material_cost_inflation_pct": 15,
+    "industry_net_margin_pct": 4
+  },
+  "data_scope": "20 transactions, March 2026"
+}
